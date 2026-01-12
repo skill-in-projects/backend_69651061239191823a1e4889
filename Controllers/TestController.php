@@ -14,7 +14,7 @@ class TestController
     {
         $this->db = $db;
     }
-
+dsfsdf
     private function setSearchPath(): void
     {
         // Set search_path to public schema (required because isolated role has restricted search_path)
